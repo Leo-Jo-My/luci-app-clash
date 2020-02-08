@@ -66,6 +66,6 @@
 - [OpenClash](https://github.com/vernesong/OpenClash/tree/master) : Another Clash Client For OpenWrt
 ## License
 
-Luci For Clash - OpenWrt is released under the GPL v3.0 License - see detailed [LICENSE](https://github.com/frainzy1477/luci-app-clash/blob/master/LICENSE) .
+Luci For Clash - OpenWrt is released under the GPL v3.0 License - see detailed [LICENSE](https://github.com/frainzy1477/luci-app-clash/blob/master/LICENSE) 
 
 
